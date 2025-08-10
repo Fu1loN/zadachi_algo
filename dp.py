@@ -55,4 +55,5 @@ def main():
         print(" ".join(f"{x:3}" for x in dp_table[i][1:]))
 
 if __name__ == "__main__":
+    print("ansndlakjnsd")
     main() 
